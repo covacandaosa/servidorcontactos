@@ -23,7 +23,7 @@ Proyecto de ejemplo cliente-servidor con comunicación cifrada mediante sockets 
 src/ ├── fp/dam/psp/servidorcontactos/ │ ├── cliente/ │ │ └── Main.java │ └── servidor/ │ ├── Server.java │ └── RequestHandler.java └── resources/ └── keystore.p12
 
 
-## ▶Cómo ejecutar
+## Cómo ejecutar
 
 1. Ejecutar `Server.java` (escucha en el puerto 9000).
 2. Ejecutar `Main.java` para enviar una petición cifrada.
