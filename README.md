@@ -1,4 +1,4 @@
-# Servidor de Contactos Seguro que mnadó Julio
+# Servidor de Contactos Seguro que mandó Julio
 
 Proyecto de ejemplo cliente-servidor con comunicación cifrada mediante sockets en Java.
 
