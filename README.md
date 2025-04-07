@@ -20,8 +20,16 @@ Proyecto de ejemplo cliente-servidor con comunicación cifrada mediante sockets 
 
 ## Estructura
 
-src/ ├── fp/dam/psp/servidorcontactos/ │ ├── cliente/ │ │ └── Main.java │ └── servidor/ │ ├── Server.java │ └── RequestHandler.java └── resources/ └── keystore.p12
-
+src/ 
+├── fp/dam/psp/servidorcontactos/ 
+│
+├── cliente/ │ 
+│ └── Main.java 
+│ └── servidor/ 
+│ ├── Server.java 
+│ └── RequestHandler.java 
+└── resources/ 
+└── keystore.p12
 
 ## Cómo ejecutar
 
@@ -31,8 +39,8 @@ src/ ├── fp/dam/psp/servidorcontactos/ │ ├── cliente/ │ │ └�
 
 ## Estado del proyecto
 
-✅ Cliente y servidor funcionando con cifrado AES/GCM  
-✅ Prueba completa con éxito  
-✅ Listo para entrega o ampliación
+Cliente y servidor funcionando con cifrado AES/GCM  
+Prueba completa con éxito  
+Listo para entrega o ampliación
 
 
